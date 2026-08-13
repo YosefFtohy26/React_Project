@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "slug": "computer-science",
+    "name": { "ar": "قسم علوم الحاسب", "en": "Department of Computer Science" },
+    "short": {
+      "ar": "علوم الحاسب",
+      "en": "Computer Science"
+    },
+    "description": {
+      "ar": "يُعنى قسم علوم الحاسب بدراسة النظريات والمبادئ الأساسية للحوسبة، وتصميم الخوارزميات، وهياكل البيانات، وهندسة البرمجيات، والذكاء الاصطناعي، وعلوم البيانات. يهدف القسم إلى إعداد خريجين قادرين على بناء أنظمة برمجية متقدمة ومواكبة التطورات التقنية العالمية.",
+      "en": "The Computer Science department studies the fundamental theories and principles of computing: algorithm design, data structures, software engineering, artificial intelligence, and data science. It prepares graduates capable of building advanced software systems and keeping pace with global technological developments."
+    },
+    "courses": [
+      { "ar": "هياكل البيانات والخوارزميات", "en": "Data Structures and Algorithms" },
+      { "ar": "هندسة البرمجيات", "en": "Software Engineering" },
+      { "ar": "الذكاء الاصطناعي", "en": "Artificial Intelligence" },
+      { "ar": "أنظمة قواعد البيانات", "en": "Database Systems" },
+      { "ar": "تعلم الآلة", "en": "Machine Learning" },
+      { "ar": "أمن المعلومات", "en": "Information Security" }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "information-systems",
+    "name": { "ar": "قسم نظم المعلومات", "en": "Department of Information Systems" },
+    "short": {
+      "ar": "نظم المعلومات",
+      "en": "Information Systems"
+    },
+    "description": {
+      "ar": "يركز قسم نظم المعلومات على تصميم وتطوير وإدارة نظم المعلومات في المؤسسات، ودمج التكنولوجيا مع إدارة الأعمال، وتحليل المتطلبات، وإدارة المشروعات التقنية، والتجارة الإلكترونية، وتحليل البيانات لدعم اتخاذ القرار.",
+      "en": "The Information Systems department focuses on designing, developing, and managing information systems within organizations. It integrates technology with business management, requirements analysis, IT project management, e-commerce, and data analytics to support decision making."
+    },
+    "courses": [
+      { "ar": "تحليل وتصميم النظم", "en": "Systems Analysis and Design" },
+      { "ar": "إدارة قواعد البيانات", "en": "Database Management" },
+      { "ar": "التجارة الإلكترونية", "en": "E-Commerce" },
+      { "ar": "إدارة المشروعات التقنية", "en": "IT Project Management" },
+      { "ar": "دعم القرار وتحليل البيانات", "en": "Decision Support and Data Analytics" },
+      { "ar": "أمن نظم المعلومات", "en": "Information Systems Security" }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "data-science",
+    "name": { "ar": "قسم علوم البيانات", "en": "Department of Data Science" },
+    "short": {
+      "ar": "علوم البيانات",
+      "en": "Data Science"
+    },
+    "description": {
+      "ar": "يعد قسم علوم البيانات من أحدث الأقسام بالكلية، ويتخصص في جمع البيانات الضخمة وتحليلها واستخراج المعرفة منها باستخدام تقنيات تعلم الآلة، والإحصاء، والتصور البياني للبيانات، والبيانات الضخمة، لخدمة مجالات متعددة مثل الصحة والصناعة والمالية.",
+      "en": "The Data Science department is one of the newest in the faculty. It specializes in collecting, analyzing, and extracting knowledge from big data using machine learning, statistics, data visualization, and big data technologies to serve fields such as health, industry, and finance."
+    },
+    "courses": [
+      { "ar": "مقدمة في علوم البيانات", "en": "Introduction to Data Science" },
+      { "ar": "تحليل البيانات الإحصائي", "en": "Statistical Data Analysis" },
+      { "ar": "البيانات الضخمة", "en": "Big Data" },
+      { "ar": "التصور البياني للبيانات", "en": "Data Visualization" },
+      { "ar": "تعلم الآلة التطبيقي", "en": "Applied Machine Learning" },
+      { "ar": "معالجة اللغات الطبيعية", "en": "Natural Language Processing" }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "bioinformatics",
+    "name": { "ar": "قسم البيولوجيا الحاسوبية", "en": "Department of Bioinformatics" },
+    "short": {
+      "ar": "البيولوجيا الحاسوبية",
+      "en": "Bioinformatics"
+    },
+    "description": {
+      "ar": "يجمع قسم البيولوجيا الحاسوبية بين علوم الحاسب وعلم الأحياء لتحليل البيانات البيولوجية والجينية، وتطوير النماذج الحسابية لفهم الأمراض، وتصميم الأدوية، وتسلسل الجينوم، مما يسهم في تقدم البحوث الطبية الحيوية.",
+      "en": "The Bioinformatics department combines computer science and biology to analyze biological and genetic data, develop computational models to understand diseases, design drugs, and sequence genomes, contributing to the advancement of biomedical research."
+    },
+    "courses": [
+      { "ar": "المعلوماتية الحيوية", "en": "Bioinformatics" },
+      { "ar": "علم الجينوم الحاسوبي", "en": "Computational Genomics" },
+      { "ar": "تصميم الأدوية الحاسوبي", "en": "Computer-Aided Drug Design" },
+      { "ar": "تحليل البيانات البيولوجية", "en": "Biological Data Analysis" },
+      { "ar": "البيولوجيا الجزيئية", "en": "Molecular Biology" },
+      { "ar": "النمذجة والمحاكاة الحيوية", "en": "Biological Modeling and Simulation" }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "computer-engineering",
+    "name": { "ar": "قسم الحاسبات والتحكم الآلي", "en": "Department of Computer Engineering and Control" },
+    "short": {
+      "ar": "الحاسبات والتحكم",
+      "en": "Computer Engineering"
+    },
+    "description": {
+      "ar": "يتخصص القسم في تصميم وبناء أنظمة الحاسوب المدمجة، وهندسة العتاد والبرمجيات، وشبكات الحاسب، وأنظمة التحكم الآلي والروبوتات، والأنظمة المدمجة الذكية المستخدمة في المصانع والمنازل والأجهزة الطبية.",
+      "en": "The department specializes in designing and building embedded computer systems, hardware and software engineering, computer networks, automation and control systems, robotics, and intelligent embedded systems used in factories, homes, and medical devices."
+    },
+    "courses": [
+      { "ar": "تنظيم الحاسبات والمعمارية", "en": "Computer Organization and Architecture" },
+      { "ar": "شبكات الحاسب", "en": "Computer Networks" },
+      { "ar": "الأنظمة المدمجة", "en": "Embedded Systems" },
+      { "ar": "معالجة الإشارات الرقمية", "en": "Digital Signal Processing" },
+      { "ar": "التحكم الآلي والروبوتات", "en": "Automation and Robotics" },
+      { "ar": "الأمن السيبراني للأنظمة", "en": "Systems Cybersecurity" }
+    ]
+  }
+]

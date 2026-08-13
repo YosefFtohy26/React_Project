@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": { "ar": "الندوة السنوية لعلوم البيانات", "en": "Annual Data Science Symposium" },
+    "date": "2026-06-15",
+    "time": { "ar": "10:00 صباحاً", "en": "10:00 AM" },
+    "location": { "ar": "القاعة الكبرى بالكلية", "en": "Main Auditorium, Faculty Building" },
+    "category": { "ar": "مؤتمر", "en": "Conference" },
+    "description": {
+      "ar": "ملتقى سنوي يجمع الباحثين والمهتمين بعلوم البيانات لاستعراض أحدث الأبحاث والتطبيقات في تعلم الآلة والذكاء الاصطناعي، بمشاركة متحدثين من الجامعات والصناعة.",
+      "en": "An annual forum bringing together researchers and enthusiasts in data science to showcase the latest research and applications in machine learning and AI, with speakers from academia and industry."
+    }
+  },
+  {
+    "id": 2,
+    "title": { "ar": "معرض التوظيف التقني السنوي", "en": "Annual Tech Career Fair" },
+    "date": "2026-07-10",
+    "time": { "ar": "11:00 صباحاً", "en": "11:00 AM" },
+    "location": { "ar": "مبنى الكلية - القاعة متعددة الأغراض", "en": "Faculty Building - Multipurpose Hall" },
+    "category": { "ar": "توظيف", "en": "Career" },
+    "description": {
+      "ar": "فرصة للطلاب والخريجين للتعرف على كبرى شركات التكنولوجيا، وإجراء مقابلات مباشرة، والانضمام لبرامج التدريب الصيفي وتطوير المهارات.",
+      "en": "An opportunity for students and graduates to meet leading technology companies, attend on-site interviews, and join summer internship and skill development programs."
+    }
+  },
+  {
+    "id": 3,
+    "title": { "ar": "هاكاثون الابتكار الرقمي 2026", "en": "Digital Innovation Hackathon 2026" },
+    "date": "2026-08-05",
+    "time": { "ar": "9:00 صباحاً", "en": "9:00 AM" },
+    "location": { "ar": "مختبرات الكلية", "en": "Faculty Laboratories" },
+    "category": { "ar": "مسابقة", "en": "Competition" },
+    "description": {
+      "ar": "مسابقة تطويرية تستمر 48 ساعة يتنافس خلالها الطلاب على بناء حلول رقمية مبتكرة لمشكلات واقعية، مع جوائز مالية ودعم حاضنات الأعمال للفريق الفائز.",
+      "en": "A 48-hour development competition where students race to build innovative digital solutions for real-world problems, with cash prizes and business incubator support for the winning team."
+    }
+  },
+  {
+    "id": 4,
+    "title": { "ar": "محاضرة عامة: مستقبل الذكاء الاصطناعي", "en": "Public Lecture: The Future of AI" },
+    "date": "2026-09-12",
+    "time": { "ar": "12:00 ظهراً", "en": "12:00 PM" },
+    "location": { "ar": "القاعة الكبرى بالكلية", "en": "Main Auditorium, Faculty Building" },
+    "category": { "ar": "ندوة", "en": "Seminar" },
+    "description": {
+      "ar": "محاضرة مفتوحة للطلاب والمجتمع حول تأثير الذكاء الاصطناعي على سوق العمل والمجتمع، يقدمها متخصصون في المجال مع جلسة نقاش مفتوحة.",
+      "en": "An open lecture for students and the community on the impact of artificial intelligence on the job market and society, delivered by field specialists with an open discussion session."
+    }
+  },
+  {
+    "id": 5,
+    "title": { "ar": "ورشة عمل: أساسيات الأمن السيبراني", "en": "Workshop: Cybersecurity Fundamentals" },
+    "date": "2026-10-03",
+    "time": { "ar": "2:00 عصراً", "en": "2:00 PM" },
+    "location": { "ar": "معمل 3 بالكلية", "en": "Lab 3, Faculty Building" },
+    "category": { "ar": "ورشة عمل", "en": "Workshop" },
+    "description": {
+      "ar": "ورشة تطبيقية تعريفية بأساسيات الأمن السيبراني، الاختراق الأخلاقي، وحماية البيانات، يلتحق بها الطلاب المشاركون في مسابقات CTF.",
+      "en": "A hands-on introductory workshop on cybersecurity fundamentals, ethical hacking, and data protection, for students joining CTF competitions."
+    }
+  },
+  {
+    "id": 6,
+    "title": { "ar": "يوم التخرج لدفعة 2026", "en": "Graduation Day - Class of 2026" },
+    "date": "2026-06-28",
+    "time": { "ar": "5:00 مساءً", "en": "5:00 PM" },
+    "location": { "ar": "قاعة المؤتمرات الكبرى - جامعة الإسكندرية", "en": "Grand Conference Hall - Alexandria University" },
+    "category": { "ar": "احتفال", "en": "Celebration" },
+    "description": {
+      "ar": "احتفالية تكريم خريجي دفعة 2026 من جميع الأقسام، وتوزيع شهادات التخرج مع عروض مشروعات التخرج المتميزة.",
+      "en": "A celebration honoring the graduating class of 2026 across all departments, presenting certificates and showcasing outstanding graduation projects."
+    }
+  }
+]

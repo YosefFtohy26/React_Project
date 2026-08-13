@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": { "ar": "شئون الطلاب", "en": "Student Affairs" },
+    "description": {
+      "ar": "خدمات التسجيل والجداول الدراسية، استخراج الشهادات، وقيد الطلاب، والمساعدة في جميع الإجراءات الأكاديمية والإدارية.",
+      "en": "Registration services, study schedules, transcript issuance, student enrollment, and assistance with all academic and administrative procedures."
+    }
+  },
+  {
+    "id": 2,
+    "title": { "ar": "مكتبة الكلية", "en": "Faculty Library" },
+    "description": {
+      "ar": "مكتبة متكاملة تضم آلاف الكتب والدوريات العلمية وقواعد البيانات الإلكترونية، مع خدمات إعارة وبحث متخصصة للطلاب والباحثين.",
+      "en": "A comprehensive library with thousands of books, scientific journals, and electronic databases, offering specialized lending and research services for students and researchers."
+    }
+  },
+  {
+    "id": 3,
+    "title": { "ar": "منصة التعلم الإلكتروني", "en": "E-Learning Platform" },
+    "description": {
+      "ar": "منصة رقمية تتيح للطلاب الوصول للمحاضرات والمواد الدراسية والاختبارات التفاعلية والتواصل مع أعضاء هيئة التدريس إلكترونياً.",
+      "en": "A digital platform enabling students to access lectures, course materials, interactive quizzes, and communicate with faculty members online."
+    }
+  },
+  {
+    "id": 4,
+    "title": { "ar": "مركز التوظيف وريادة الأعمال", "en": "Career and Entrepreneurship Center" },
+    "description": {
+      "ar": "يدعم الطلاب والخريجين بورش تطوير المهارات، والتواصل مع الشركات، وفرص التدريب، والتدريب على المقابلات، واحتضان الأفكار الريادية.",
+      "en": "Supports students and graduates with skill development workshops, company networking, internship opportunities, interview training, and incubation of entrepreneurial ideas."
+    }
+  },
+  {
+    "id": 5,
+    "title": { "ar": "الدعم الفني للأنظمة", "en": "IT Help Desk" },
+    "description": {
+      "ar": "خدمات الدعم الفني للبريد الإلكتروني الجامعي، وشبكة الإنترنت، وحسابات المنصات الرقمية، والمختبرات، وحل المشكلات التقنية للطلاب وأعضاء هيئة التدريس.",
+      "en": "Technical support for the university email, internet network, digital platform accounts, and laboratories, resolving technical issues for students and faculty."
+    }
+  },
+  {
+    "id": 6,
+    "title": { "ar": "الخدمات الصحية والاجتماعية", "en": "Health and Social Services" },
+    "description": {
+      "ar": "رعاية صحية للطلاب من خلال العيادات الجامعية، ودعم اجتماعي ومالي للطلاب المتميزين والمحتاجين عبر صناديق الرعاية.",
+      "en": "Health care for students through university clinics, and social and financial support for distinguished and underprivileged students through care funds."
+    }
+  },
+  {
+    "id": 7,
+    "title": { "ar": "وحدة الجودة والاعتماد", "en": "Quality and Accreditation Unit" },
+    "description": {
+      "ar": "تعمل على تطوير البرامج الأكاديمية ومتابعة معايير الجودة والاعتماد، وإعداد التقارير الدورية، ودعم البرامج للحصول على الاعتماد المحلي والدولي.",
+      "en": "Develops academic programs, monitors quality and accreditation standards, prepares periodic reports, and supports programs in obtaining local and international accreditation."
+    }
+  },
+  {
+    "id": 8,
+    "title": { "ar": "الأنشطة الطلابية", "en": "Student Activities" },
+    "description": {
+      "ar": "أنشطة متنوعة في المجالات الرياضية والفنية والثقافية والعلمية، مع فرق الكلية (مسرح، شطرنج، رياضة إلكترونية) والجوال والاتحادات الطلابية.",
+      "en": "Diverse activities in sports, arts, culture, and science, with faculty teams (theater, chess, e-sports), student clubs, and unions."
+    }
+  }
+]

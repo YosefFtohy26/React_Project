@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "type": { "ar": "بكالوريوس", "en": "Bachelor" },
+    "name": { "ar": "بكالوريوس علوم الحاسب", "en": "B.Sc. in Computer Science" },
+    "duration": { "ar": "4 سنوات", "en": "4 years" },
+    "description": {
+      "ar": "برنامج شامل يغطي أساسيات الحوسبة والخوارزميات وهندسة البرمجيات والذكاء الاصطناعي، ويهدف إلى إعداد مهندسي برمجيات وباحثين في علوم الحاسب القادرة على الابتكار في سوق العمل المحلي والعالمي.",
+      "en": "A comprehensive program covering the fundamentals of computing, algorithms, software engineering, and artificial intelligence. It prepares software engineers and researchers capable of innovating in the local and global job market."
+    }
+  },
+  {
+    "id": 2,
+    "type": { "ar": "بكالوريوس", "en": "Bachelor" },
+    "name": { "ar": "بكالوريوس نظم المعلومات", "en": "B.Sc. in Information Systems" },
+    "duration": { "ar": "4 سنوات", "en": "4 years" },
+    "description": {
+      "ar": "برنامج يدمج بين التقنية وإدارة الأعمال لتصميم وإدارة نظم المعلومات في المؤسسات، مع التركيز على تحليل الأعمال، وقواعد البيانات، والتجارة الإلكترونية، ودعم القرار.",
+      "en": "A program that integrates technology with business management to design and manage information systems in organizations, focusing on business analysis, databases, e-commerce, and decision support."
+    }
+  },
+  {
+    "id": 3,
+    "type": { "ar": "بكالوريوس", "en": "Bachelor" },
+    "name": { "ar": "بكالوريوس علوم البيانات", "en": "B.Sc. in Data Science" },
+    "duration": { "ar": "4 سنوات", "en": "4 years" },
+    "description": {
+      "ar": "برنامج حديث يركز على تحليل البيانات الضخمة، وتعلم الآلة، والإحصاء التطبيقي، والتصور البياني، لإعداد متخصصين قادرين على تحويل البيانات إلى معرفة وقرارات في مختلف القطاعات.",
+      "en": "A modern program focused on big data analytics, machine learning, applied statistics, and visualization, preparing specialists able to turn data into knowledge and decisions across various sectors."
+    }
+  },
+  {
+    "id": 4,
+    "type": { "ar": "دراسات عليا", "en": "Postgraduate" },
+    "name": { "ar": "ماجستير علوم الحاسب", "en": "M.Sc. in Computer Science" },
+    "duration": { "ar": "2 - 3 سنوات", "en": "2 - 3 years" },
+    "description": {
+      "ar": "برنامج ماجستير يهدف إلى تعميق المعرفة البحثية في مجالات الذكاء الاصطناعي، وأمن المعلومات، والأنظمة الموزعة، مع إجراء بحوث علمية منشورة في مجالات متقدمة.",
+      "en": "A master's program that deepens research knowledge in artificial intelligence, information security, and distributed systems, with published research in advanced fields."
+    }
+  },
+  {
+    "id": 5,
+    "type": { "ar": "دراسات عليا", "en": "Postgraduate" },
+    "name": { "ar": "ماجستير تحليلات البيانات الضخمة", "en": "M.Sc. in Big Data Analytics" },
+    "duration": { "ar": "2 - 3 سنوات", "en": "2 - 3 years" },
+    "description": {
+      "ar": "برنامج متخصص في تقنيات البيانات الضخمة، والتعلم العميق، والتحليلات التنبؤية، بالتعاون مع القطاعات الصناعية لتطبيقات عملية واقعية.",
+      "en": "A specialized program in big data technologies, deep learning, and predictive analytics, in collaboration with industry for real-world applications."
+    }
+  },
+  {
+    "id": 6,
+    "type": { "ar": "دراسات عليا", "en": "Postgraduate" },
+    "name": { "ar": "دكتوراه الفلسفة في علوم الحاسب", "en": "Ph.D. in Computer Science" },
+    "duration": { "ar": "3 - 5 سنوات", "en": "3 - 5 years" },
+    "description": {
+      "ar": "برنامج الدكتوراه لإعداد الباحثين في أحدث مجالات الحوسبة، مع إشراف علمي متميز ونشر في دوريات عالمية مرموقة.",
+      "en": "A doctoral program preparing researchers in the latest computing fields, with distinguished supervision and publication in prestigious international journals."
+    }
+  }
+]

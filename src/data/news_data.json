@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "العرض المسرحي أبنائي لفريق مسرح الكلية في مهرجان الفنون المسرحية",
+      "en": "The Theatrical Performance 'My Children' by the Faculty Theater Team at the University Arts Festival"
+    },
+    "body": {
+      "ar": "قدم فريق المسرح بالكلية عرضاً متميزاً بعنوان 'أبنائي' ضمن فعاليات مهرجان الفنون المسرحية على مستوى جامعة الإسكندرية، حيث حاز العرض على إشادة واسعة من لجنة التحكيم والجمهور.",
+      "en": "The faculty theater team presented an outstanding show titled 'My Children' as part of the Alexandria University Arts Festival, receiving high praise from the jury and audience."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1803-2026-05-14-08-48-40",
+    "images": [
+      "news_images/news_1_img_3.jpg",
+      "news_images/news_1_img_4.jpg",
+      "news_images/news_1_img_5.jpg",
+      "news_images/news_1_img_6.jpg",
+      "news_images/news_1_img_7.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "معرض الفنون التشكيلية والأشغال الفنية برعاية الإدارة العامة لرعاية الشباب",
+      "en": "Fine Arts and Handicrafts Exhibition Organized by the Youth Care Administration"
+    },
+    "body": {
+      "ar": "شهدت الجامعة افتتاح معرض الفنون التشكيلية والأشغال الفنية السنوي بمشاركة متميزة من طلاب الكلية، حيث تضمن المعرض لوحات زيتية، رسومات جرافيك، وأعمالاً يدوية مبتكرة.",
+      "en": "The university inaugurated its annual Fine Arts and Handicrafts Exhibition with notable student participation, featuring oil paintings, graphic designs, and creative handcrafts."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1802-2026-05-14-08-43-38",
+    "images": [
+      "news_images/news_2_img_3.jpg",
+      "news_images/news_2_img_4.jpg",
+      "news_images/news_2_img_5.jpg",
+      "news_images/news_2_img_6.jpg",
+      "news_images/news_2_img_7.jpg",
+      "news_images/news_2_img_8.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "تكريم كلية الحاسبات وعلوم البيانات لتحقيقها مراكز متتقدمة في تصنيف QS العالمي 2026",
+      "en": "Faculty Awarded for Advanced Ranking in QS World University Rankings 2026"
+    },
+    "body": {
+      "ar": "كرم مجلس جامعة الإسكندرية إدارة كلية الحاسبات وعلوم البيانات بعد تحقيقها مراكز متقدمة عالمياً في مجالات علوم الحاسب ونظم المعلومات وفقاً لتصنيف QS لعام 2026.",
+      "en": "Alexandria University Council honored the Faculty of Computers and Data Science for achieving top global rankings in Computer Science according to QS Rankings 2026."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1801-qs-2026",
+    "images": ["news_images/news_3_img_3.jpg"]
+  },
+  {
+    "id": 4,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "فوز طلاب الكلية ببطولة ألعاب القوى على مستوى الجامعة",
+      "en": "Faculty Students Win the University Athletics Championship"
+    },
+    "body": {
+      "ar": "حقق أبطال الكلية مراكز أولى وميداليات متنوعة في بطولة ألعاب القوى التي نظمتها إدارة الأسر الطلابية على مستوى كافة كليات جامعة الإسكندرية.",
+      "en": "Faculty athletes achieved top places and multiple medals in the University Athletics Championship organized by the Student Families Department."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1800-2026-05-14-08-36-30",
+    "images": ["news_images/news_4_img_3.jpg"]
+  },
+  {
+    "id": 6,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "افتتاح الدورة الكشفية الـ 45 والإرشادية الـ 17 بجامعة الإسكندرية",
+      "en": "Opening of the 45th Scout and 17th Guide Rally at Alexandria University"
+    },
+    "body": {
+      "ar": "شاركت عشيرة جوالة الكلية في مراسم افتتاح الدورة الكشفية والإرشادية بجامعة الإسكندرية، والتي تهدف إلى تنمية مهارات القيادة والخدمة العامة لدى الطلاب.",
+      "en": "The faculty scout team participated in the opening ceremony of the annual Scout and Guide Rally, aiming to build leadership skills and community service values."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1798-45-17",
+    "images": [
+      "news_images/news_6_img_3.jpg",
+      "news_images/news_6_img_4.jpg",
+      "news_images/news_6_img_5.jpg",
+      "news_images/news_6_img_6.jpg",
+      "news_images/news_6_img_7.jpg",
+      "news_images/news_6_img_8.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "فوز الطالب رزق خميس بالمركز الرابع في بطولة كمال الأجسام",
+      "en": "Student Rezk Khamis Secures 4th Place in Bodybuilding Championship"
+    },
+    "body": {
+      "ar": "حقق الطالب رزق خميس عبد العزيز أدائاً متميزاً وحصد المركز الرابع على مستوى جامعة الإسكندرية في بطولة كمال الأجسام للجامعات.",
+      "en": "Student Rezk Khamis Abdel Aziz put on a remarkable performance, winning 4th place in the Alexandria University Bodybuilding Championship."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1797-2026-05-14-08-16-53",
+    "images": ["news_images/news_7_img_3.jpg"]
+  },
+  {
+    "id": 8,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "فوز فريق الكلية بالمركز الأول في مسابقة ملتقى الندوات الذاتية",
+      "en": "Faculty Team Takes First Place in the Self-Seminars Forum Competition"
+    },
+    "body": {
+      "ar": "انتزع طلاب كلية الحاسبات وعلوم البيانات المركز الأول في مسابقة الندوات الذاتية بعد تقديمهم عرضاً تقديمياً متميزاً يتناول أحدث تطورات الذكاء الاصطناعي.",
+      "en": "Students of the Faculty won first place in the Self-Seminars Competition after presenting an engaging session on current advancements in AI."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1796-2026-05-14-08-14-40",
+    "images": ["news_images/news_8_img_3.jpg"]
+  },
+  {
+    "id": 9,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "كلية الحاسبات وعلوم البيانات تنظم حفل الإفطار الرمضاني السنوي",
+      "en": "Faculty Organizes Annual Ramadan Iftar Gathering"
+    },
+    "body": {
+      "ar": "نظمت الكلية حفل إفطارها السنوي بحضور أعضاء هيئة التدريس والطلاب والعاملين، وسط أجواء رمضانية تسودها المودة والمشاركة الإيجابية.",
+      "en": "The faculty organized its annual Iftar for faculty members, staff, and students, fostering a warm community spirit during the holy month of Ramadan."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1795-2026-05-14-08-12-21",
+    "images": [
+      "news_images/news_9_img_3.jpg",
+      "news_images/news_9_img_4.jpg",
+      "news_images/news_9_img_5.jpg",
+      "news_images/news_9_img_6.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "فوز الطالب محمد علام بلقب الطالب المثالي على مستوى أسر الجامعة",
+      "en": "Student Mohamed Allam Wins Ideal Student Award"
+    },
+    "body": {
+      "ar": "توج الطالب محمد علام عبد الحليم بالمركز الأول في مسابقة الطالب المثالي، تقديرات لنشاطه الأكاديمي المتميز ومشاركاته الفعالة في الأنشطة الطلابية.",
+      "en": "Mohamed Allam Abdel Halim achieved first place in the Ideal Student Competition in recognition of his academic excellence and active student participation."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1794-2026-05-14-08-08-05",
+    "images": ["news_images/news_10_img_3.jpg"]
+  },
+  {
+    "id": 11,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "فوز الطالب كريم أيمن بالميدالية الذهبية والمركز الأول على مستوى أفريقيا",
+      "en": "Student Karim Ayman Wins African Gold Medal"
+    },
+    "body": {
+      "ar": "حقق الطالب كريم أيمن إنجازاً قرياً وحصل على الميدالية الذهبية والمركز الأول في البطولة الأفريقية، مبرهناً على التميز الرياضي للكلية.",
+      "en": "Student Karim Ayman achieved a continent-wide victory, winning the gold medal and 1st place in the African Sports Championship."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1793-2026-05-14-08-02-49",
+    "images": ["news_images/news_11_img_3.jpg", "news_images/news_11_img_4.jpg"]
+  },
+  {
+    "id": 12,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "حفل تخرج أولى دفعات كلية الحاسبات وعلوم البيانات",
+      "en": "Graduation Ceremony for the Faculty's Inaugural Batches"
+    },
+    "body": {
+      "ar": "احتفلت الكلية بتخريج الدفعات الأولى من طلاب البرامج المتخصصة في حفل مهيب بحضور قيادات الجامعة وأولياء أمور الطلاب المكرمين.",
+      "en": "The faculty celebrated the graduation of its inaugural batches in a grand ceremony attended by university leaders and proud families."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1792-2024-10-31-08-13-13",
+    "images": ["news_images/news_12_img_3.jpg"]
+  },
+  {
+    "id": 13,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "تفعيل منظومة التحصيل الإلكتروني لشؤون الطلاب",
+      "en": "Activation of the E-Payment System for Student Affairs"
+    },
+    "body": {
+      "ar": "أعلنت إدارة الكلية عن التفعيل الكامل لمنظومة التحصيل المالي الإلكتروني لسداد المصروفات والخدمات الطلابية بسهولة وأمان.",
+      "en": "The faculty announced the complete rollout of its online fee payment system, allowing students to pay tuition and service fees easily and securely."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1790-2024-10-30-12-36-28",
+    "images": ["news_images/news_13_img_3.jpg", "news_images/news_13_img_4.jpg"]
+  },
+  {
+    "id": 14,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "زيارة فريق لجنة القياس والتقويم لكلية الحاسبات وعلوم البيانات",
+      "en": "Measurement and Evaluation Committee Visits the Faculty"
+    },
+    "body": {
+      "ar": "استقبلت الكلية وفد لجنة القياس والتقويم بالجامعة لمتابعة سير المنظومة الامتحانية وتطبيق معايير الجودة والأوراق الامتحانية المطورة.",
+      "en": "The faculty welcomed the University Assessment and Evaluation Committee to review exam quality standards and modern testing procedures."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1789-2023-06-04-11-44-35",
+    "images": ["news_images/news_14_img_3.jpg"]
+  },
+  {
+    "id": 15,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "تنظيم ملتقى التوظيف الأول لكلية الحاسبات وعلوم البيانات",
+      "en": "Faculty Holds Its 1st Annual Career Fair"
+    },
+    "body": {
+      "ar": "انطلقت فعاليات ملتقى التوظيف الأول بالكلية بمشاركة كبرى شركات التكنولوجيا وعلوم البيانات لتوفير فرص تدريب وتوظيف متميزة للطلاب والخريجين.",
+      "en": "The 1st Annual Career Fair launched with major tech and data companies participating to offer internships and job opportunities to graduates."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1788-2023-05-16-10-09-44",
+    "images": ["news_images/news_15_img_3.jpg"]
+  },
+  {
+    "id": 16,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "صدور قرار رئيس الجامعة بتعيين معيدين جدد بالكلية",
+      "en": "University President Issues Decision Appointing New Teaching Assistants"
+    },
+    "body": {
+      "ar": "أصدر رئيس جامعة الإسكندرية قراراً بتعيين نخبة من أوائل الخريجين كوظيفة معيد بأقسام الكلية المختلفة لدعم المنظومة الأكاديمية والبحثية.",
+      "en": "The President of Alexandria University appointed top graduates as Teaching Assistants across various departments to support academic and research activities."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1787-2023-05-16-10-00-42",
+    "images": ["news_images/news_16_img_3.jpg"]
+  },
+  {
+    "id": 18,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "اعتماد التقويم الدراسي للفصل الدراسي الثاني",
+      "en": "Approval of the Academic Calendar for the Second Term"
+    },
+    "body": {
+      "ar": "اعتمد مجلس الكلية الخطة الزمنية والتقويم الدراسي للفصل الثاني، متضمنة مواعيد الاختبارات النصفية والنهائية والإجازات الرسمية.",
+      "en": "The Faculty Board approved the official academic calendar for the second term, detailing midterm exam schedules, finals, and official holidays."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1785-2022-2032",
+    "images": ["news_images/news_18_img_3.jpg"]
+  },
+  {
+    "id": 19,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "فتح باب التقدم للنداء الثاني لمنحة العلوم الأساسية STDF",
+      "en": "Applications Open for the 2nd STDF Basic Sciences Grant"
+    },
+    "body": {
+      "ar": "أعلنت الكلية عن فتح باب التقديم لتمويل المشروعات البحثية ضمن النداء الثاني لمنحة صندوق العلوم والتنمية التكنولوجية STDF.",
+      "en": "The faculty announced the second call for research project funding under the Science, Technology & Development Fund (STDF) grant."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1782-2023-01-29-10-05-51",
+    "images": ["news_images/news_19_img_3.jpg"]
+  },
+  {
+    "id": 21,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "مشروع المنح الدراسية والتبادل الأكاديمي ادرس في صقلية",
+      "en": "'Study in Sicily' Academic Exchange & Scholarship Program"
+    },
+    "body": {
+      "ar": "دعوة موجهة للباحثين والطلاب للتقديم في برنامج التبادل الأكاديمي والمنح المتاحة ضمن مشروع 'ادرس في صقلية' بالتعاون مع الجامعات الإيطالية.",
+      "en": "Students and researchers are invited to apply for the 'Study in Sicily' exchange program in collaboration with Italian partner universities."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1779-2023-01-29-08-31-13",
+    "images": ["news_images/news_21_img_3.jpg"]
+  },
+  {
+    "id": 23,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "حصول الطالبة يارا علام على المركز الأول في بطولة الشطرنج",
+      "en": "Student Yara Allam Claims 1st Place in Chess Championship"
+    },
+    "body": {
+      "ar": "فازت الطالبة يارا علام بالمركز الأول والميدالية الذهبية في بطولة جامعة الإسكندرية للشطرنج بعد جولات منافسة قوية.",
+      "en": "Student Yara Allam won 1st place and the gold medal in the Alexandria University Chess Championship after strong competitive rounds."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1777-2022-12-18-09-13-57",
+    "images": ["news_images/news_23_img_3.jpg"]
+  },
+  {
+    "id": 24,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "المركز الثالث للطالب محمد جابر في مسابقة مصارعة الذراعين",
+      "en": "Student Mohamed Jaber Takes 3rd Place in Arm Wrestling"
+    },
+    "body": {
+      "ar": "انتزع الطالب محمد جابر الميدالية البرونزية والمركز الثالث على مستوى الجامعة في مسابقة مصارعة الذراعين للقوة البدنية.",
+      "en": "Student Mohamed Jaber earned the bronze medal and 3rd place in the University Arm Wrestling Competition."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1776-2022-12-18-09-02-02",
+    "images": ["news_images/news_24_img_3.jpg"]
+  },
+  {
+    "id": 40,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "إطلاق هاقاتون الابتكار للتغير المناخي والاهتمام بالمستقبل المستدام",
+      "en": "Launch of Climate Change Innovation Hackathon for Sustainability"
+    },
+    "body": {
+      "ar": "شاركت الكلية في تنظيم هاقاتون الابتكار المناخي بهدف تقديم حلول برمجية وذكاء اصطناعي لمواجهة التحديات البيئية وتحقيق التنمية المستدامة.",
+      "en": "The faculty co-organized the Climate Change Hackathon, encouraging students to build software and AI solutions for environmental sustainability."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1756-hackathon-for-climate-change-innovate-for-sustainability",
+    "images": ["news_images/news_40_img_3.jpg"]
+  },
+  {
+    "id": 41,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "جامعة الإسكندرية تحتل مراكز متقدمة فى 7 تخصصات في تصنيف شنغهاي الصيني",
+      "en": "Alexandria University Ranks High in 7 Subjects in Shanghai Ranking"
+    },
+    "body": {
+      "ar": "أعلنت جامعة الإسكندرية عن تحقيق مراكز متقدمة عالمياً في 7 تخصصات أكاديمية مختلفة وفقاً لتصنيف شنغهاي الصيني لعام 2022، وكان لعلوم الحاسب نصيب بارز منها.",
+      "en": "Alexandria University announced achieving advanced global rankings in 7 different academic subjects according to the 2022 Shanghai Ranking, with Computer Science taking a prominent share."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1740-7-2022",
+    "images": ["news_images/news_41_img_3.jpg"]
+  },
+  {
+    "id": 43,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "استمرار تكليف أ.د. ياسر فؤاد بتسيير أعمال ومهام عميد كلية الحاسبات وعلوم البيانات",
+      "en": "Prof. Yasser Fouad Continues as Acting Dean of the Faculty"
+    },
+    "body": {
+      "ar": "صدر قرار رئيس الجامعة بتجديد تكليف الأستاذ الدكتور ياسر فؤاد بتسيير أعمال عمادة كلية الحاسبات وعلوم البيانات وقيادة المنظومة الأكاديمية والبحثية بها.",
+      "en": "The University President renewed the appointment of Prof. Yasser Fouad as Acting Dean of the Faculty of Computers and Data Science to lead its academic operations."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1738-2022-05-14-08-45-13",
+    "images": ["news_images/news_43_img_3.jpg"]
+  },
+  {
+    "id": 44,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "كلية الحاسبات وعلوم البيانات تنظم مسابقة فى مجال الأفلام القصيرة",
+      "en": "Faculty Organizes a Short Film Competition for Students"
+    },
+    "body": {
+      "ar": "أعلنت إدارة النشاط الثقافي بالكلية عن تنظيم مسابقة للأفلام القصيرة لتشجيع الطلاب على الإبداع الفني وصناعة المحتوى المرئي المبتكر.",
+      "en": "The Cultural Activities Department announced a short film competition to encourage student creativity and innovative visual content creation."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1737-2022-08-07-09-09-08",
+    "images": ["news_images/news_44_img_3.jpg"]
+  },
+  {
+    "id": 47,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "اختتام البرنامج التدريبي للطلاب بشركة VI Markets",
+      "en": "Conclusion of the Student Training Program at VI Markets"
+    },
+    "body": {
+      "ar": "اختتم طلاب الكلية برنامجهم التدريبي العملي بشركة VI Markets، حيث تلقوا تدريباً مكثفاً في مجالات التحليل المالي والأنظمة التكنولوجية الداعمة لأسواق المال.",
+      "en": "Faculty students completed their practical training program at VI Markets, receiving intensive training in financial analysis and financial technology systems."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1734-vi-markets",
+    "images": ["news_images/news_47_img_3.jpg"]
+  },
+  {
+    "id": 50,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "زيارة عميد الكلية لسفارة ليتوانيا بالقاهرة",
+      "en": "Faculty Dean Visits the Embassy of Lithuania in Cairo"
+    },
+    "body": {
+      "ar": "قام عميد الكلية بزيارة رسمية لسفارة ليتوانيا بالقاهرة لبحث سبل التعاون الأكاديمي والتبادل الطلابي والبحثي مع الجامعات الليتوانية المتخصصة في التكنولوجيا.",
+      "en": "The Faculty Dean made an official visit to the Embassy of Lithuania in Cairo to discuss academic cooperation and student exchange programs with Lithuanian tech universities."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1731-2022-07-06-08-50-45",
+    "images": ["news_images/news_50_img_3.jpg"]
+  },
+  {
+    "id": 51,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "بدء التدريب الصيفي بكلية الحاسبات وعلوم البيانات",
+      "en": "Launch of Summer Training Program at the Faculty"
+    },
+    "body": {
+      "ar": "انطلقت فعاليات التدريب الصيفي الميداني لطلاب الكلية بالتنسيق مع عدد من كبرى شركات التكنولوجيا لتأهيل الطلاب متطلبات سوق العمل الرقمي.",
+      "en": "Field summer training launched for faculty students in coordination with top tech companies to prepare them for the digital market requirements."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1730-2022-07-03-08-31-00",
+    "images": ["news_images/news_51_img_3.jpg"]
+  },
+  {
+    "id": 53,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "تهنئة بمناسبة ذكرى ثورة 30 يونيو",
+      "en": "Congratulations on June 30 Revolution Anniversary"
+    },
+    "body": {
+      "ar": "تقدمت إدارة الكلية بخالص التهنئة لأسرة الكلية والجامعة بمناسبة ذكرى ثورة 30 يونيو المجيدة، متمنية لمصر دوام التقدم والازدهار.",
+      "en": "Faculty administration congratulated staff and students on June 30 Revolution Anniversary, wishing Egypt continued prosperity."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1728-30",
+    "images": ["news_images/news_53_img_3.jpg"]
+  },
+  {
+    "id": 54,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "المسابقة الشبابية المقدمة من برنامج مصر لتنظيم الأسرة",
+      "en": "Youth Competition Provided by the Egypt Family Planning Program"
+    },
+    "body": {
+      "ar": "دعت الكلية طلابها للمشاركة في المسابقة الشبابية للتوعية والمشاركة المجتمعية المنظمة ضمن برامج التنمية الوطنية ورعاية الشباب.",
+      "en": "The faculty invited students to participate in the youth awareness competition organized under national development programs."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1727-2022-06-29-09-14-02",
+    "images": ["news_images/news_54_img_3.jpg"]
+  },
+  {
+    "id": 56,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "اعتماد جداول امتحانات الفصل الدراسي الثاني",
+      "en": "Approval of Second Term Examination Timetables"
+    },
+    "body": {
+      "ar": "أعلنت إدارة شؤون الطلاب عن الجدول النهائي المعتمد لامتحانات نهاية الفصل الدراسي الثاني لكافة المستويات الدراسية بالكلية.",
+      "en": "Student Affairs announced the finalized and approved exam timetable for the end of the second term across all study levels."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1725-2021-2025",
+    "images": ["news_images/news_56_img_3.jpg"]
+  },
+  {
+    "id": 58,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "حصول الطالبة حبيبة ياسر على المركز الخامس في مجال الرسم",
+      "en": "Student Habiba Yasser Secures 5th Place in Drawing Competition"
+    },
+    "body": {
+      "ar": "حققت الطالبة حبيبة ياسر محمد المركز الخامس على مستوى الجامعة في مسابقة الرسم التشكيلي ضمن الفعاليات الفنية للأنشطة الطلابية.",
+      "en": "Student Habiba Yasser Mohamed earned 5th place university-wide in the fine drawing competition hosted by student activity teams."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1723-2022-05-20-09-09-45",
+    "images": ["news_images/news_58_img_3.jpg"]
+  },
+  {
+    "id": 59,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "فوز فريق الكلية بالمركز الثاني في منتدى الحوسبة والذكاء الاصطناعي بكفر الشيخ",
+      "en": "Faculty Team Takes 2nd Place at Kafr El-Sheikh AI Forum"
+    },
+    "body": {
+      "ar": "حصد ممثلو الكلية المركز الثاني في المنتدى القومي للحوسبة والذكاء الاصطناعي المقام بجامعة بكفر الشيخ بعد تقديم مشروع برمجي متميز.",
+      "en": "Faculty representatives won 2nd place in the National Computing and AI Forum held at Kafr El-Sheikh University for their software project."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1722-2022-05-18-07-53-09",
+    "images": ["news_images/news_59_img_3.jpg"]
+  },
+  {
+    "id": 61,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "المعرض السنوي للخامات المتنوعة والمجسمات الفنية للطلاب",
+      "en": "Annual Exhibition of Art Models and Mixed Media Materials"
+    },
+    "body": {
+      "ar": "شاركت أسر الكلية في المعرض الفني السنوي للمجسمات والخامات المتنوعة بتقديم مجسمات مبتكرة نالت استحسان الزوار واللجنة المنظمة.",
+      "en": "Student families participated in the annual art exhibition, presenting creative mixed-media models that earned praised from visitors."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1716-2022-05-09-08-36-38",
+    "images": ["news_images/news_61_img_3.jpg"]
+  },
+  {
+    "id": 62,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "مشاركة فريق الكلية فى الدورة الرمضانية لثلاثيات كرة السلة",
+      "en": "Faculty Participation in Ramadan 3x3 Basketball Tournament"
+    },
+    "body": {
+      "ar": "شارك فريق كرة السلة بالكلية في الدورة الرمضانية لثلاثيات كرة السلة المقامة على مستوى الجامعة وسط منافسات حماسية بين الكليات.",
+      "en": "The faculty basketball team participated in the university 3x3 Ramadan tournament amidst energetic competition among faculties."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1715-2022-05-07-08-05-12",
+    "images": ["news_images/news_62_img_3.jpg"]
+  },
+  {
+    "id": 63,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "مشاركة فريق الكلية فى الدورة الرمضانية لتنس الطاولة",
+      "en": "Faculty Participation in Ramadan Table Tennis Tournament"
+    },
+    "body": {
+      "ar": "قدم طلاب الكلية أدائاً متميزاً خلال مشاركتهم في منافسات بطولة تنس الطاولة الرمضانية للجامعة وحققوا مراكز متقدمة.",
+      "en": "Faculty students performed admirably during their participation in the university Ramadan Table Tennis Championship."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1714-2022-05-07-07-46-55",
+    "images": ["news_images/news_63_img_3.jpg"]
+  },
+  {
+    "id": 64,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "ورشة تدريبية لتعليم أساسيات التصوير برعاية الشباب والرياضة",
+      "en": "Photography Basics Workshop Hosted by Ministry of Youth & Sports"
+    },
+    "body": {
+      "ar": "شارك عدد من طلاب الكلية في الورشة التدريبية المتخصصة لتنمية مهارات وقواعد التصوير الفوتوغرافي وصناعة الصورة الإعلامية.",
+      "en": "A group of faculty students participated in a specialized workshop aimed at developing photography skills and visual production."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1713-2022-05-04-20-43-49",
+    "images": ["news_images/news_64_img_3.jpg"]
+  },
+  {
+    "id": 65,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "المركز الثاني لكلية الحاسبات في مسابقة الندوات الذاتية",
+      "en": "Faculty Wins 2nd Place in Self-Seminars Competition"
+    },
+    "body": {
+      "ar": "حققت الكلية المركز الثاني على مستوى الجامعة في مسابقة الندوات الذاتية بعد منافسة قوية وعرض متميز قدمه طلاب الكلية.",
+      "en": "The faculty won second place university-wide in the Self-Seminars Competition following a strong presentation by its students."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1712-2022-05-03-12-26-29",
+    "images": ["news_images/news_65_img_3.jpg"]
+  },
+  {
+    "id": 66,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "المركز الرابع لفريق كرة القدم الخماسي على مستوى الجامعة",
+      "en": "Futsal Team Secures 4th Place in University Tournament"
+    },
+    "body": {
+      "ar": "حقق فريق كرة القدم الخماسي للكلية المركز الرابع في البطولة الرياضية المركزية لجامعة الإسكندرية عقب أداء بطولة طوال الدورة.",
+      "en": "The faculty futsal team achieved 4th place in Alexandria University central sports tournament after a impressive tournament run."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1711-2022-05-03-12-18-04",
+    "images": ["news_images/news_66_img_3.jpg"]
+  },
+  {
+    "id": 70,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "كلية الحاسبات تنظم مسابقة فى حفظ القرآن الكريم",
+      "en": "Faculty Organizes Holy Quran Recitation Competition"
+    },
+    "body": {
+      "ar": "نظمت رعاية الشباب بالكلية مسابقة دينيه سنوية لحفظ وتلاوة القرآن الكريم وتجويده، بمشاركة واسعة من مختلف المستويات الدراسية.",
+      "en": "Youth Care department organized its annual Holy Quran recitation competition with widespread participation across study levels."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1707-2022-04-30-22-44-19",
+    "images": ["news_images/news_70_img_3.jpg"]
+  },
+  {
+    "id": 71,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "مراكز متقدمة لطلاب الكلية فى بطولة الجامعة للسباحة والزعانف",
+      "en": "Advanced Rankings for Faculty Students in University Swimming Tournament"
+    },
+    "body": {
+      "ar": "فاز سباحو الكلية بعدة ميداليات في بطولة جامعة الإسكندرية للسباحة والسباحة بالزعانف مظهرين تفوقاً رياضياً لافتاً.",
+      "en": "Faculty swimmers won multiple medals in the Alexandria University Swimming Championship, showcasing exceptional athletic performance."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1706-2022-04-30-22-29-08",
+    "images": ["news_images/news_71_img_3.jpg"]
+  },
+  {
+    "id": 72,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "المركز الثاني لعشيرة جوالة الكلية في المهرجان الكشفي",
+      "en": "Faculty Scout Team Wins 2nd Place at Scout Festival"
+    },
+    "body": {
+      "ar": "حصدت عشيرة الجوالة بالكلية المركز الثاني في المهرجان الكشفي والإرشادي للجامعة بفضل التزام الفريق وتميز أنشطته المعسكريه.",
+      "en": "The faculty scout clan claimed 2nd place in the University Scout Festival thanks to team discipline and outstanding camping activities."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1705-2022-04-30-22-17-20",
+    "images": ["news_images/news_72_img_3.jpg"]
+  },
+  {
+    "id": 73,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "دعوة للمشاركة فى مسابقة مكافحة التصحر والجفاف",
+      "en": "Invitation to Participate in Desertification & Drought Competition"
+    },
+    "body": {
+      "ar": "أعلنت إدارة النشاط العلمي بالكلية عن فتح باب المشاركة في مسابقة حلول التكنولوجيا لمواجهة مشكلات التصحر والجفاف والتغير البيئي.",
+      "en": "The Scientific Activity Department announced a tech solutions competition aimed at tackling desertification, drought, and climate issues."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1704-2022-04-26-11-06-32",
+    "images": ["news_images/news_73_img_3.jpg"]
+  },
+  {
+    "id": 74,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "حفل تنصيب مجلس اتحاد طلاب جامعة الإسكندرية",
+      "en": "Inauguration Ceremony of Alexandria University Student Union Council"
+    },
+    "body": {
+      "ar": "شارك ممثلو اتحاد طلاب الكلية في الحفل الرسمي لتنصيب مجلس اتحاد طلاب الجامعة بحضور قيادات الجامعة وأعضاء اللجان المختلفة.",
+      "en": "Faculty Student Union representatives participated in the official inauguration ceremony of the University Student Union Council."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1703-2022-04-26-09-37-44",
+    "images": ["news_images/news_74_img_3.jpg"]
+  },
+  {
+    "id": 75,
+    "category": {
+      "ar": "أكاديمي",
+      "en": "Academic"
+    },
+    "title": {
+      "ar": "التقديم لبرنامج الشهادة المزدوجة مع جامعة لويفيل الأمريكية",
+      "en": "Applications Open for Dual-Degree Program with University of Louisville"
+    },
+    "body": {
+      "ar": "فتح باب التقديم لطلاب الكلية للالتحاق ببرنامج الدرجة المزدوجة الدولي بالتعاون مع جامعة لويفيل بالولايات المتحدة الأمريكية.",
+      "en": "Applications are now open for the dual-degree program in partnership with the University of Louisville, USA."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1702-2022-04-26-09-14-20",
+    "images": ["news_images/news_75_img_3.jpg"]
+  },
+  {
+    "id": 88,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "فتح باب التقديم لبرنامج التدريب الصيفي من شركة جوجل",
+      "en": "Google Summer Internship Program Opportunities Open"
+    },
+    "body": {
+      "ar": "إعلان إرشادي لطلاب الكلية للتقديم في برنامج التدريب الصيفي لشركة جوجل العالمي وتطوير مهاراتهم في البرمجة وهندسة البرمجيات.",
+      "en": "Informational announcement for students to apply for Google's Summer Internship program to gain hands-on software engineering experience."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1685-2022-3200",
+    "images": ["news_images/news_88_img_3.jpg"]
+  },
+  {
+    "id": 97,
+    "category": {
+      "ar": "الحياة الطلابية",
+      "en": "Student Life"
+    },
+    "title": {
+      "ar": "إطلاق حملة قطرة حياة للتبرع بالدم داخل الكلية",
+      "en": "'Drop of Life' Blood Donation Campaign Organized on Campus"
+    },
+    "body": {
+      "ar": "نظمت إدارة الكلية بالتعاون مع بنك الدم الإقليمي حملة للتبرع بالدم شهدت إقبالاً كبيراً من أعضاء هيئة التدريس والطلاب.",
+      "en": "The faculty, in collaboration with the regional blood bank, hosted a blood donation drive with high participation from students and staff."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1636-2021-12-29-17-33-02",
+    "images": ["news_images/news_97_img_3.jpg"]
+  },
+  {
+    "id": 100,
+    "category": {
+      "ar": "البحث العلمي",
+      "en": "Research"
+    },
+    "title": {
+      "ar": "انطلاق المسابقة الأولمبية في إنترنت الأشياء IoT",
+      "en": "Launch of the IoT Olympic Competition"
+    },
+    "body": {
+      "ar": "دعوة للطلاب أصحاب الابتكارات التقنية للمشاركة في المسابقة الأولمبية الوطنية المخصصة لتطبيقات وحلول إنترنت الأشياء.",
+      "en": "An open call for student innovators to participate in the National Olympiad for Internet of Things (IoT) applications and solutions."
+    },
+    "url": "https://fcds.alexu.edu.eg/index.php/ar/news/1633-iot",
+    "images": ["news_images/news_100_img_3.jpg"]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": { "ar": "أ.د. أحمد عبد الرحمن", "en": "Prof. Ahmed Abdelrahman" },
+    "role": { "ar": "عميد الكلية", "en": "Dean of the Faculty" },
+    "department": { "ar": "علوم الحاسب", "en": "Computer Science" },
+    "email": "ahmed.abdelrahman@alexu.edu.eg",
+    "interests": { "ar": "الذكاء الاصطناعي، تعلم الآلة، معالجة اللغات الطبيعية", "en": "Artificial Intelligence, Machine Learning, NLP" }
+  },
+  {
+    "id": 2,
+    "name": { "ar": "أ.د. سارة محمد", "en": "Prof. Sara Mohamed" },
+    "role": { "ar": "وكيل الكلية لشئون التعليم والطلاب", "en": "Vice Dean for Education and Student Affairs" },
+    "department": { "ar": "نظم المعلومات", "en": "Information Systems" },
+    "email": "sara.mohamed@alexu.edu.eg",
+    "interests": { "ar": "قواعد البيانات، التجارة الإلكترونية، دعم القرار", "en": "Databases, E-Commerce, Decision Support" }
+  },
+  {
+    "id": 3,
+    "name": { "ar": "أ.د. خالد السيد", "en": "Prof. Khaled El-Sayed" },
+    "role": { "ar": "وكيل الكلية للدراسات العليا والبحوث", "en": "Vice Dean for Graduate Studies and Research" },
+    "department": { "ar": "علوم البيانات", "en": "Data Science" },
+    "email": "khaled.elsayed@alexu.edu.eg",
+    "interests": { "ar": "البيانات الضخمة، التحليلات التنبؤية، التعلم العميق", "en": "Big Data, Predictive Analytics, Deep Learning" }
+  },
+  {
+    "id": 4,
+    "name": { "ar": "د. منى إبراهيم", "en": "Dr. Mona Ibrahim" },
+    "role": { "ar": "أستاذ مساعد", "en": "Associate Professor" },
+    "department": { "ar": "علوم الحاسب", "en": "Computer Science" },
+    "email": "mona.ibrahim@alexu.edu.eg",
+    "interests": { "ar": "أمن المعلومات، التشفير، الخصوصية", "en": "Information Security, Cryptography, Privacy" }
+  },
+  {
+    "id": 5,
+    "name": { "ar": "د. عمر فاروق", "en": "Dr. Omar Farouk" },
+    "role": { "ar": "مدرس بقسم نظم المعلومات", "en": "Lecturer in Information Systems" },
+    "department": { "ar": "نظم المعلومات", "en": "Information Systems" },
+    "email": "omar.farouk@alexu.edu.eg",
+    "interests": { "ar": "هندسة البرمجيات، تطوير الويب، الحوسبة السحابية", "en": "Software Engineering, Web Development, Cloud Computing" }
+  },
+  {
+    "id": 6,
+    "name": { "ar": "د. هالة مصطفى", "en": "Dr. Hala Mostafa" },
+    "role": { "ar": "أستاذ مساعد", "en": "Associate Professor" },
+    "department": { "ar": "علوم البيانات", "en": "Data Science" },
+    "email": "hala.mostafa@alexu.edu.eg",
+    "interests": { "ar": "الرؤية الحاسوبية، تحليل الصور، الوكيل الذكي", "en": "Computer Vision, Image Analysis, Intelligent Agents" }
+  },
+  {
+    "id": 7,
+    "name": { "ar": "د. يوسف حسن", "en": "Dr. Youssef Hassan" },
+    "role": { "ar": "مدرس بقسم علوم الحاسب", "en": "Lecturer in Computer Science" },
+    "department": { "ar": "علوم الحاسب", "en": "Computer Science" },
+    "email": "youssef.hassan@alexu.edu.eg",
+    "interests": { "ar": "الخوارزميات، النظريات، الأنظمة الموزعة", "en": "Algorithms, Theory, Distributed Systems" }
+  },
+  {
+    "id": 8,
+    "name": { "ar": "د. نادية عادل", "en": "Dr. Nadia Adel" },
+    "role": { "ar": "مدرس بقسم البيولوجيا الحاسوبية", "en": "Lecturer in Bioinformatics" },
+    "department": { "ar": "البيولوجيا الحاسوبية", "en": "Bioinformatics" },
+    "email": "nadia.adel@alexu.edu.eg",
+    "interests": { "ar": "المعلوماتية الحيوية، الجينوم الحسابي، نمذجة البروتين", "en": "Bioinformatics, Computational Genomics, Protein Modeling" }
+  }
+]

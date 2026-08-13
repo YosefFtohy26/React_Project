@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": { "ar": "أكاديمي", "en": "Academic" },
+    "title": { "ar": "بدء التسجيل للفصل الدراسي الأول 2026/2027", "en": "Fall Semester 2026/2027 Registration Opens" },
+    "date": "2026-08-01",
+    "body": {
+      "ar": "يُعلن عن بدء التسجيل الإلكتروني للفصل الدراسي الأول للعام الجامعي 2026/2027. يرجى من الطلاب مراجعة جداول المواد واستكمال إجراءات التسجيل قبل الموعد النهائي.",
+      "en": "Electronic registration for the fall semester of the 2026/2027 academic year is now open. Students are kindly requested to review course schedules and complete registration before the deadline."
+    }
+  },
+  {
+    "id": 2,
+    "category": { "ar": "منح", "en": "Scholarships" },
+    "title": { "ar": "فتح باب التقديم لمنح التفوق للعام الجامعي الجديد", "en": "Applications Open for Excellence Scholarships" },
+    "date": "2026-07-20",
+    "body": {
+      "ar": "يعلن مكتب المنح عن فتح باب التقديم لمنح التفوق الأكاديمي للطلاب المتميزين في جميع الأقسام، وفق الشروط المعلنة في مكتب شئون الطلاب.",
+      "en": "The Scholarships Office announces the opening of applications for academic excellence scholarships for outstanding students across all departments, according to the conditions announced at the Student Affairs Office."
+    }
+  },
+  {
+    "id": 3,
+    "category": { "ar": "إداري", "en": "Administrative" },
+    "title": { "ar": "تحديث نظام البريد الإلكتروني الجامعي", "en": "University Email System Update" },
+    "date": "2026-07-12",
+    "body": {
+      "ar": "سيتم إجراء ترقية لنظام البريد الإلكتروني الجامعي يوم الجمعة القادم من الساعة 12 صباحاً حتى 4 فجراً، وسيكون هناك انقطاع مؤقت في الخدمة خلال هذه الفترة.",
+      "en": "An upgrade to the university email system will take place next Friday from 12:00 AM to 4:00 AM, with a temporary service interruption during this period."
+    }
+  },
+  {
+    "id": 4,
+    "category": { "ar": "أكاديمي", "en": "Academic" },
+    "title": { "ar": "إعلان جداول الامتحانات النهائية", "en": "Final Exam Schedules Announced" },
+    "date": "2026-06-25",
+    "body": {
+      "ar": "تم الإعلان عن جداول الامتحانات النهائية للفصل الدراسي الثاني على الصفحات الرسمية للكلية وفي لوحات الإعلانات بالمباني.",
+      "en": "Final exam schedules for the second semester have been announced on the official faculty pages and bulletin boards in the buildings."
+    }
+  },
+  {
+    "id": 5,
+    "category": { "ar": "طلابي", "en": "Student" },
+    "title": { "ar": "نتائج التقدم لمسابقة مشروعات التخرج", "en": "Graduation Project Competition Results" },
+    "date": "2026-06-18",
+    "body": {
+      "ar": "تم اعتماد نتائج التقدم لمسابقة مشروعات التخرج، وسيتم إعلان الفرق الفائزة خلال حفل تكريم نهاية العام.",
+      "en": "The graduation project competition entry results have been approved, and winning teams will be announced during the end-of-year ceremony."
+    }
+  },
+  {
+    "id": 6,
+    "category": { "ar": "إداري", "en": "Administrative" },
+    "title": { "ar": "تعطيل الدراسة بمناسبة العيد", "en": "Study Suspended for Eid Holiday" },
+    "date": "2026-06-10",
+    "body": {
+      "ar": "تقدر الكلية كافة أعضاء هيئة التدريس والهيئة المعاونة والطلاب بمناسبة عيد الأضحى المبارك، وتُعلن تعطيل الدراسة طوال أيام الإجازة الرسمية.",
+      "en": "The faculty congratulates all faculty members, staff, and students on the blessed Eid al-Adha and announces that study will be suspended throughout the official holiday."
+    }
+  }
+]
