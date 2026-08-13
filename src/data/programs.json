@@ -2,61 +2,61 @@
   {
     "id": 1,
     "type": { "ar": "بكالوريوس", "en": "Bachelor" },
-    "name": { "ar": "بكالوريوس علوم الحاسب", "en": "B.Sc. in Computer Science" },
+    "name": { "ar": "برنامج علوم الحوسبة والبيانات (القسم العام)", "en": "Computing and Data Science Program (General)" },
     "duration": { "ar": "4 سنوات", "en": "4 years" },
     "description": {
-      "ar": "برنامج شامل يغطي أساسيات الحوسبة والخوارزميات وهندسة البرمجيات والذكاء الاصطناعي، ويهدف إلى إعداد مهندسي برمجيات وباحثين في علوم الحاسب القادرة على الابتكار في سوق العمل المحلي والعالمي.",
-      "en": "A comprehensive program covering the fundamentals of computing, algorithms, software engineering, and artificial intelligence. It prepares software engineers and researchers capable of innovating in the local and global job market."
+      "ar": "البرنامج العام للكلية يمنح الطالب أساساً قوياً في علوم الحوسبة وعلوم البيانات خلال الفصلين الأولين، ثم يتخصص الطالب في أحد البرامج المتخصصة بدءاً من الفصل الدراسي الثالث.",
+      "en": "The general program provides a strong foundation in computing and data science during the first two semesters, after which students specialize in one of the specialized programs starting from the third semester."
     }
   },
   {
     "id": 2,
     "type": { "ar": "بكالوريوس", "en": "Bachelor" },
-    "name": { "ar": "بكالوريوس نظم المعلومات", "en": "B.Sc. in Information Systems" },
+    "name": { "ar": "برنامج تحليلات الأعمال", "en": "Business Analytics Program" },
     "duration": { "ar": "4 سنوات", "en": "4 years" },
     "description": {
-      "ar": "برنامج يدمج بين التقنية وإدارة الأعمال لتصميم وإدارة نظم المعلومات في المؤسسات، مع التركيز على تحليل الأعمال، وقواعد البيانات، والتجارة الإلكترونية، ودعم القرار.",
-      "en": "A program that integrates technology with business management to design and manage information systems in organizations, focusing on business analysis, databases, e-commerce, and decision support."
+      "ar": "يزود الطلاب بالمهارات اللازمة لتحليل بيانات الأعمال المعقدة، وفهم العمليات التجارية، وبناء مستودعات البيانات، واتخاذ قرارات استراتيجية مدروسة مبنية على البيانات.",
+      "en": "Equips students with the skills to analyze complex business data, understand business processes, build data warehouses, and make informed strategic decisions driven by data."
     }
   },
   {
     "id": 3,
     "type": { "ar": "بكالوريوس", "en": "Bachelor" },
-    "name": { "ar": "بكالوريوس علوم البيانات", "en": "B.Sc. in Data Science" },
+    "name": { "ar": "برنامج النظم الذكية", "en": "Intelligent Systems Program" },
     "duration": { "ar": "4 سنوات", "en": "4 years" },
     "description": {
-      "ar": "برنامج حديث يركز على تحليل البيانات الضخمة، وتعلم الآلة، والإحصاء التطبيقي، والتصور البياني، لإعداد متخصصين قادرين على تحويل البيانات إلى معرفة وقرارات في مختلف القطاعات.",
-      "en": "A modern program focused on big data analytics, machine learning, applied statistics, and visualization, preparing specialists able to turn data into knowledge and decisions across various sectors."
+      "ar": "يركز على تطوير التقنيات الذكية التي تدعم الأتمتة وتعزز الكفاءة، بما في ذلك الأنظمة الذكية، والبحث التشغيلي، والأنظمة المتقدمة لحل المشكلات.",
+      "en": "Focuses on developing intelligent technologies that support automation and enhance efficiency, including smart systems, operations research, and advanced problem-solving systems."
     }
   },
   {
     "id": 4,
-    "type": { "ar": "دراسات عليا", "en": "Postgraduate" },
-    "name": { "ar": "ماجستير علوم الحاسب", "en": "M.Sc. in Computer Science" },
-    "duration": { "ar": "2 - 3 سنوات", "en": "2 - 3 years" },
+    "type": { "ar": "بكالوريوس", "en": "Bachelor" },
+    "name": { "ar": "برنامج تحليلات الوسائط الإعلامية", "en": "Media Analytics Program" },
+    "duration": { "ar": "4 سنوات", "en": "4 years" },
     "description": {
-      "ar": "برنامج ماجستير يهدف إلى تعميق المعرفة البحثية في مجالات الذكاء الاصطناعي، وأمن المعلومات، والأنظمة الموزعة، مع إجراء بحوث علمية منشورة في مجالات متقدمة.",
-      "en": "A master's program that deepens research knowledge in artificial intelligence, information security, and distributed systems, with published research in advanced fields."
+      "ar": "يمنح الطلاب الأدوات اللازمة لتحليل الوسائط المرئية والصوتية، ومعالجة الصور، والصوتيات، وتصميم الويب، مما يترك أثراً ملموساً في المشهد الإعلامي الرقمي.",
+      "en": "Provides students with the tools to analyze visual and audio media, process images and audio, and design websites, leaving a tangible impact on the digital media landscape."
     }
   },
   {
     "id": 5,
-    "type": { "ar": "دراسات عليا", "en": "Postgraduate" },
-    "name": { "ar": "ماجستير تحليلات البيانات الضخمة", "en": "M.Sc. in Big Data Analytics" },
-    "duration": { "ar": "2 - 3 سنوات", "en": "2 - 3 years" },
+    "type": { "ar": "بكالوريوس", "en": "Bachelor" },
+    "name": { "ar": "برنامج تحليلات ومعلوماتية الرعاية الصحية", "en": "Healthcare Informatics and Analytics Program" },
+    "duration": { "ar": "4 سنوات", "en": "4 years" },
     "description": {
-      "ar": "برنامج متخصص في تقنيات البيانات الضخمة، والتعلم العميق، والتحليلات التنبؤية، بالتعاون مع القطاعات الصناعية لتطبيقات عملية واقعية.",
-      "en": "A specialized program in big data technologies, deep learning, and predictive analytics, in collaboration with industry for real-world applications."
+      "ar": "يمكن الطلاب من تسخير قوة البيانات في تطوير الممارسات الرعاية الصحية وتحسين نتائج المرضى، بما يشمل المعلومات الصحية، والعلوم العصبية، والروبوتات، والتصميم الدوائي الحاسوبي.",
+      "en": "Enables students to harness the power of data to advance healthcare practices and improve patient outcomes, covering health informatics, neuroscience, robotics, and computer-assisted drug design."
     }
   },
   {
     "id": 6,
-    "type": { "ar": "دراسات عليا", "en": "Postgraduate" },
-    "name": { "ar": "دكتوراه الفلسفة في علوم الحاسب", "en": "Ph.D. in Computer Science" },
-    "duration": { "ar": "3 - 5 سنوات", "en": "3 - 5 years" },
+    "type": { "ar": "بكالوريوس", "en": "Bachelor" },
+    "name": { "ar": "برنامج الأمن السيبراني", "en": "Cybersecurity Program" },
+    "duration": { "ar": "4 سنوات", "en": "4 years" },
     "description": {
-      "ar": "برنامج الدكتوراه لإعداد الباحثين في أحدث مجالات الحوسبة، مع إشراف علمي متميز ونشر في دوريات عالمية مرموقة.",
-      "en": "A doctoral program preparing researchers in the latest computing fields, with distinguished supervision and publication in prestigious international journals."
+      "ar": "يضمن إعداد الطلاب بشكل قوي لحماية البيانات والأنظمة من التهديدات الرقمية المتزايدة، من خلال دراسة نظرية الأعداد، والتشفير، وأمن الشبكات، وأمن المعلومات.",
+      "en": "Prepares students to strongly protect data and systems from growing digital threats through the study of number theory, cryptography, network security, and information security."
     }
   }
 ]

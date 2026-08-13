@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "name": { "ar": "أ.د. أحمد عبد الرحمن", "en": "Prof. Ahmed Abdelrahman" },
+    "name": { "ar": "عضو هيئة التدريس (١) - عميد الكلية", "en": "Faculty Member (1) - Dean" },
     "role": { "ar": "عميد الكلية", "en": "Dean of the Faculty" },
-    "department": { "ar": "علوم الحاسب", "en": "Computer Science" },
-    "email": "ahmed.abdelrahman@alexu.edu.eg",
-    "interests": { "ar": "الذكاء الاصطناعي، تعلم الآلة، معالجة اللغات الطبيعية", "en": "Artificial Intelligence, Machine Learning, NLP" }
+    "department": { "ar": "الحوسبة ونظم المعلومات", "en": "Computing and Information Systems" },
+    "email": "dean@alexu.edu.eg",
+    "interests": { "ar": "علوم الحوسبة، الذكاء الاصطناعي", "en": "Computing, Artificial Intelligence" }
   },
   {
     "id": 2,
-    "name": { "ar": "أ.د. سارة محمد", "en": "Prof. Sara Mohamed" },
+    "name": { "ar": "عضو هيئة التدريس (٢) - وكيل شئون التعليم والطلاب", "en": "Faculty Member (2) - Vice Dean for Education" },
     "role": { "ar": "وكيل الكلية لشئون التعليم والطلاب", "en": "Vice Dean for Education and Student Affairs" },
-    "department": { "ar": "نظم المعلومات", "en": "Information Systems" },
-    "email": "sara.mohamed@alexu.edu.eg",
-    "interests": { "ar": "قواعد البيانات، التجارة الإلكترونية، دعم القرار", "en": "Databases, E-Commerce, Decision Support" }
+    "department": { "ar": "علوم البيانات وتحليلاتها", "en": "Data Science and Analytics" },
+    "email": "vc-education@alexu.edu.eg",
+    "interests": { "ar": "علوم البيانات، التعليم الرقمي", "en": "Data Science, Digital Education" }
   },
   {
     "id": 3,
-    "name": { "ar": "أ.د. خالد السيد", "en": "Prof. Khaled El-Sayed" },
+    "name": { "ar": "عضو هيئة التدريس (٣) - وكيل الدراسات العليا", "en": "Faculty Member (3) - Vice Dean for Graduate Studies" },
     "role": { "ar": "وكيل الكلية للدراسات العليا والبحوث", "en": "Vice Dean for Graduate Studies and Research" },
-    "department": { "ar": "علوم البيانات", "en": "Data Science" },
-    "email": "khaled.elsayed@alexu.edu.eg",
-    "interests": { "ar": "البيانات الضخمة، التحليلات التنبؤية، التعلم العميق", "en": "Big Data, Predictive Analytics, Deep Learning" }
+    "department": { "ar": "الحوسبة ونظم المعلومات", "en": "Computing and Information Systems" },
+    "email": "vc-grad@alexu.edu.eg",
+    "interests": { "ar": "بحوث الحوسبة، النشر العلمي", "en": "Computing Research, Scientific Publishing" }
   },
   {
     "id": 4,
-    "name": { "ar": "د. منى إبراهيم", "en": "Dr. Mona Ibrahim" },
-    "role": { "ar": "أستاذ مساعد", "en": "Associate Professor" },
-    "department": { "ar": "علوم الحاسب", "en": "Computer Science" },
-    "email": "mona.ibrahim@alexu.edu.eg",
-    "interests": { "ar": "أمن المعلومات، التشفير، الخصوصية", "en": "Information Security, Cryptography, Privacy" }
+    "name": { "ar": "عضو هيئة التدريس (٤) - أستاذ", "en": "Faculty Member (4) - Professor" },
+    "role": { "ar": "أستاذ", "en": "Professor" },
+    "department": { "ar": "علوم البيانات وتحليلاتها", "en": "Data Science and Analytics" },
+    "email": "professor.ds@alexu.edu.eg",
+    "interests": { "ar": "البيانات الضخمة، تعلم الآلة", "en": "Big Data, Machine Learning" }
   },
   {
     "id": 5,
-    "name": { "ar": "د. عمر فاروق", "en": "Dr. Omar Farouk" },
-    "role": { "ar": "مدرس بقسم نظم المعلومات", "en": "Lecturer in Information Systems" },
-    "department": { "ar": "نظم المعلومات", "en": "Information Systems" },
-    "email": "omar.farouk@alexu.edu.eg",
-    "interests": { "ar": "هندسة البرمجيات، تطوير الويب، الحوسبة السحابية", "en": "Software Engineering, Web Development, Cloud Computing" }
+    "name": { "ar": "عضو هيئة التدريس (٥) - أستاذ مساعد", "en": "Faculty Member (5) - Associate Professor" },
+    "role": { "ar": "أستاذ مساعد", "en": "Associate Professor" },
+    "department": { "ar": "الحوسبة ونظم المعلومات", "en": "Computing and Information Systems" },
+    "email": "assoc.cs@alexu.edu.eg",
+    "interests": { "ar": "قواعد البيانات، أمن المعلومات", "en": "Databases, Information Security" }
   },
   {
     "id": 6,
-    "name": { "ar": "د. هالة مصطفى", "en": "Dr. Hala Mostafa" },
-    "role": { "ar": "أستاذ مساعد", "en": "Associate Professor" },
-    "department": { "ar": "علوم البيانات", "en": "Data Science" },
-    "email": "hala.mostafa@alexu.edu.eg",
-    "interests": { "ar": "الرؤية الحاسوبية، تحليل الصور، الوكيل الذكي", "en": "Computer Vision, Image Analysis, Intelligent Agents" }
+    "name": { "ar": "عضو هيئة التدريس (٦) - مدرس", "en": "Faculty Member (6) - Lecturer" },
+    "role": { "ar": "مدرس", "en": "Lecturer" },
+    "department": { "ar": "علوم البيانات وتحليلاتها", "en": "Data Science and Analytics" },
+    "email": "lecturer.ba@alexu.edu.eg",
+    "interests": { "ar": "تحليلات الأعمال، الإحصاء التطبيقي", "en": "Business Analytics, Applied Statistics" }
   },
   {
     "id": 7,
-    "name": { "ar": "د. يوسف حسن", "en": "Dr. Youssef Hassan" },
-    "role": { "ar": "مدرس بقسم علوم الحاسب", "en": "Lecturer in Computer Science" },
-    "department": { "ar": "علوم الحاسب", "en": "Computer Science" },
-    "email": "youssef.hassan@alexu.edu.eg",
-    "interests": { "ar": "الخوارزميات، النظريات، الأنظمة الموزعة", "en": "Algorithms, Theory, Distributed Systems" }
+    "name": { "ar": "عضو هيئة التدريس (٧) - مدرس", "en": "Faculty Member (7) - Lecturer" },
+    "role": { "ar": "مدرس", "en": "Lecturer" },
+    "department": { "ar": "الحوسبة ونظم المعلومات", "en": "Computing and Information Systems" },
+    "email": "lecturer.cy@alexu.edu.eg",
+    "interests": { "ar": "الأمن السيبراني، الشبكات", "en": "Cybersecurity, Networks" }
   },
   {
     "id": 8,
-    "name": { "ar": "د. نادية عادل", "en": "Dr. Nadia Adel" },
-    "role": { "ar": "مدرس بقسم البيولوجيا الحاسوبية", "en": "Lecturer in Bioinformatics" },
-    "department": { "ar": "البيولوجيا الحاسوبية", "en": "Bioinformatics" },
-    "email": "nadia.adel@alexu.edu.eg",
-    "interests": { "ar": "المعلوماتية الحيوية، الجينوم الحسابي، نمذجة البروتين", "en": "Bioinformatics, Computational Genomics, Protein Modeling" }
+    "name": { "ar": "عضو هيئة التدريس (٨) - مدرس مساعد", "en": "Faculty Member (8) - Assistant Lecturer" },
+    "role": { "ar": "مدرس مساعد", "en": "Assistant Lecturer" },
+    "department": { "ar": "علوم البيانات وتحليلاتها", "en": "Data Science and Analytics" },
+    "email": "asst.media@alexu.edu.eg",
+    "interests": { "ar": "تحليلات الوسائط، معالجة الصور", "en": "Media Analytics, Image Processing" }
   }
 ]

@@ -3,7 +3,7 @@ import { BookOpen, Building2, Trophy, Users } from "lucide-react";
 
 const stats = [
   { key: "programs", value: 6, icon: BookOpen },
-  { key: "departments", value: 5, icon: Building2 },
+  { key: "departments", value: 2, icon: Building2 },
   { key: "qs_rank", value: "QS", icon: Trophy, labelKey: "qs_rank_val" },
   { key: "grad_cohorts", value: 2, icon: Users },
 ];
